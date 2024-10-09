@@ -44,9 +44,9 @@ def actualizar_coordenadas_en_db(host, user, password, database, excel_file, por
 
 # Parámetros de conexión
 host = 'localhost'  # Asegúrate de que este es el nombre correcto del host
-user = 'root'
-password = 'secret'
-database = 'veloci_tiendas'
+user = 'user'
+password = 'pass'
+database = 'database'
 port = 8887  # Reemplaza XXXX con el puerto correcto
 
 # Ruta al archivo Excel
