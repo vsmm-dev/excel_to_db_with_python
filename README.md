@@ -1,6 +1,6 @@
 # Update database with Python
 
-Este proyecto permite actualizar coordenadas de latitud y longitud de un excel a una base de datos en Python.
+Este script permite actualizar coordenadas de latitud y longitud de un excel a una base de datos en Python.
 
 ### Instalación de Python
 
